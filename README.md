@@ -1,10 +1,6 @@
 <!-- Your title -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=280&section=header&text=Welcome!!!&fontSize=50&animation=scaleIn)	
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
 &nbsp;
 
 <!-- Talking about you -->
