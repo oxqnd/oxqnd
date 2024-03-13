@@ -1,8 +1,6 @@
 <!-- Your title -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=280&section=header&text=Welcome!!!&fontSize=50&animation=scaleIn)	
 
-&nbsp;
-
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
