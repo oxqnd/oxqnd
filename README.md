@@ -18,11 +18,6 @@
   <a href="https://github.com/oxqnd">
     <img width="55%" align="right" alt="oxqnd stats" src="https://github-readme-stats.vercel.app/api?username=oxqnd&show_icons=true&hide_border=true" />
   </a>
-  
-  <!-- Study log -->
-  <a href="https://github.com/oxqnd">
-    <img width="45%" align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact" />
-  </a>
 </p>
 
 
