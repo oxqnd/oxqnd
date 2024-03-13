@@ -1,5 +1,5 @@
 <!-- Your title -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=280&section=header&text=Welcome!!!&fontSize=50&animation=scaleIn)	
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=280&section=header&text=Welcome!!!&fontSize=50&animation=scaleIn)	
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
