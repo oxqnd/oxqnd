@@ -18,7 +18,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/oxqnd">
-    <img width="55%" align="right" alt="Jinho github stats" src="https://github-readme-stats.vercel.app/api?username=oxqnd&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="oxqnd stats" src="https://github-readme-stats.vercel.app/api?username=oxqnd&show_icons=true&hide_border=true" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
