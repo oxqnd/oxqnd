@@ -26,7 +26,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
   <!-- Study log -->
   <a href="https://github.com/oxqnd">
-    <img width="45%" align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact" />
+    <img width="55%" align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact" />
   </a>
 </p>
 
