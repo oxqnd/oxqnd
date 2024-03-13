@@ -8,7 +8,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
 - 📫 How to reach me:
-    - <a href="https://www.instagram.com/oxqnd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oxqnd/"/></a>
+    - <a href="https://www.instagram.com/oxqnd_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oxqnd_/"/></a>
     - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:orangemush777@gmail.com)
 
 **Languages and Tools:** 
