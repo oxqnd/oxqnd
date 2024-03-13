@@ -14,8 +14,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
 - 📫 How to reach me:
-  
-    - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/oxqnd_)
+    - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://www.instagram.com/oxqnd_)
     - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:orangemush777@gmail.com)
 
 **Languages and Tools:** 
