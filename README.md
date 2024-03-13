@@ -21,7 +21,7 @@
   
   <!-- Study log -->
   <a href="https://github.com/oxqnd">
-    <img width="40%" align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact" />
+    <img width="45%" align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact" />
   </a>
 </p>
 
