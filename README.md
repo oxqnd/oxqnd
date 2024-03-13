@@ -20,8 +20,8 @@
   </a>
   
   <!-- Study log -->
-  <a href="https://github.com/893107">
-    <img width="55%" align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact" />
+  <a href="https://github.com/oxqnd">
+    <img width="55%" align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact" />
   </a>
 </p>
 
