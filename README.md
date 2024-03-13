@@ -1,5 +1,5 @@
 <!-- Your title -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=280&section=header&text=Welcome!!!&fontSize=25&animation=scaleIn)	
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=280&section=header&text=Welcome!!!&fontSize=50&animation=scaleIn)	
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
