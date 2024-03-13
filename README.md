@@ -22,11 +22,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="https://github.com/oxqnd">
     <img width="55%" align="right" alt="oxqnd stats" src="https://github-readme-stats.vercel.app/api?username=oxqnd&show_icons=true&hide_border=true" />
   </a>
-  #### :pencil2: Study log
 
   <!-- Study log -->
   <a href="https://github.com/oxqnd">
-    <img width="35%" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact" />
+    <img width="35%" align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact" />
   </a>
 </p>
 
