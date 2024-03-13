@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
-- 📫 How to reach me: [Instagram](https://www.facebook.com/jaceshim.kr) 
+- 📫 How to reach me: [Instagram](https://www.instagram.com/oxqnd_/) 
 
 **Languages and Tools:** 
 
@@ -31,7 +31,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
+  <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
@@ -41,7 +41,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
   <br />
 </p>
