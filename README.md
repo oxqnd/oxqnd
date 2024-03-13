@@ -9,6 +9,7 @@
 
 - 📫 How to reach me:
     - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://www.instagram.com/oxqnd_)
+    - <a href="https://www.instagram.com/oxqnd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oxqnd/"/></a>
     - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:orangemush777@gmail.com)
 
 **Languages and Tools:** 
