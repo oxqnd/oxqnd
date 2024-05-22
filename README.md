@@ -35,4 +35,4 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <br />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브이름&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&theme=dracula)
