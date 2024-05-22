@@ -35,6 +35,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <br />
   <a href="https://github.com/oxqnd">
-    <img width="35%" align="left" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true" />
+    <img width="33%" align="left" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true" />
   </a>
 </p>
