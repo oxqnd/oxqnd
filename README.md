@@ -34,4 +34,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <br />
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomll&layout=compact)
+  <br/>
 </p>
