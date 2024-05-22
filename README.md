@@ -37,6 +37,6 @@
 </p>
 <p>
   <a href="https://github.com/oxqnd">
-    <img width="15%" align="right" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true" />
+    <img width="35%" align="right" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true" />
   </a>
 </p>
