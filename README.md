@@ -35,4 +35,8 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <br />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&theme=dracula)
+<p>
+  <a href="https://github.com/oxqnd">
+    <img width="55%" align="right" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true" />
+  </a>
+</p>
