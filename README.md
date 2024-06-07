@@ -24,9 +24,9 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="9.5%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
-  <code><img width="9.5%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-  <code><img width="9.5%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
+  <code><img width="9%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
+  <code><img width="9%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
+  <code><img width="9%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
