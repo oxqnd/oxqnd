@@ -14,13 +14,13 @@
 <!-- Your github readme stats -->
 <p>
   <a href="https://github.com/oxqnd">
-    <img width="45%" align="right" alt="oxqnd stats" src="https://github-readme-stats.vercel.app/api?username=oxqnd&show_icons=true&hide_border=true&cache_seconds=1800&langs_count=8" />
+    <img width="55%" height="150" align="right" alt="oxqnd stats" src="https://github-readme-stats.vercel.app/api?username=oxqnd&show_icons=true&hide_border=true&cache_seconds=1800&langs_count=8" />
   </a>
 </p>
 
 <!-- Top Languages with hide_border=true and cache invalidation -->
 <a href="https://github.com/oxqnd">
-  <img width="45%" align="right" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true&cache_seconds=1800&langs_count=8" />
+  <img width="55%" height="228" align="right" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true&cache_seconds=1800&langs_count=8" />
 </a>
 
 <!-- Languages -->
