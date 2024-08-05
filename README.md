@@ -41,4 +41,4 @@
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rabbitmq,mysql,git,github,ubuntu,cloudflare,docker&perline=4" />
 </a>
 
-<--![snake gif](https://github.com/oxqnd/oxqnd/blob/output/github-contribution-grid-snake.svg)-->
+<!--![snake gif](https://github.com/oxqnd/oxqnd/blob/output/github-contribution-grid-snake.svg)-->
