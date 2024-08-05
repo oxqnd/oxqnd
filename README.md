@@ -32,7 +32,7 @@
 <!-- Frameworks and Libraries -->
 ### Frameworks and Libraries:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,flask,fastapi,nodejs,express,nestjs,nextjs&perline=4" />
+  <img src="https://skillicons.dev/icons?i=dotnet,pytorch,flask,fastapi,nodejs,express,nestjs,nextjs&perline=4" />
 </a>
 
 <!-- Tools -->
