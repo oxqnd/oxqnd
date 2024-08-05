@@ -1,5 +1,5 @@
 <!-- Your title -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=280&section=header&text=HELLO:sparkles:!!!&fontSize=50&animation=scaleIn)	
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=280&section=header&text=HELLO!!!&fontSize=50&animation=scaleIn)	
 <!--![snake gif](https://github.com/아이디/아이디/blob/output/github-contribution-grid-snake.svg)-->
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
