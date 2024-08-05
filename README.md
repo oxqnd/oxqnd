@@ -24,7 +24,9 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,py,pytorch,flask,fastapi,javascript,nodejs,nestjs,nextjs,rabbitmq,mysql,vscode,git,github,ubuntu,docker,cloudflare&perline=4)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,pytorch,flask,fastapi,javascript,nodejs,nestjs,nextjs,rabbitmq,mysql,vscode,git,github,ubuntu,docker,cloudflare&perline=4" style="width: 300px; height: 350px;">
+  </a>
   <br />
   <a href="https://github.com/oxqnd">
     <img width="36%" align="left" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true" />
