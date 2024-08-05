@@ -26,7 +26,7 @@
 <!-- Languages -->
 ### Languages:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,r,javascript&perline=4" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,r,javascript,ts&perline=4" />
 </a>
 
 <!-- Frameworks and Libraries -->
