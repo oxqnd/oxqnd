@@ -1,11 +1,16 @@
 <!-- Your title -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=280&section=header&text=HELLO😊😊!!!&fontSize=50&animation=scaleIn)	
-<!--![snake gif](https://github.com/oxqnd/oxqnd/blob/output/github-contribution-grid-snake.svg)-->
+![snake gif](https://github.com/oxqnd/oxqnd/blob/output/github-contribution-grid-snake.svg)
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<!--<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />-->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 📫 How to reach me:
+    - <a href="https://www.instagram.com/oxqnd_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oxqnd_/"/></a>
+    - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:orangemush777@gmail.com)
+
 <!-- Your github readme stats -->
 <p>
   <a href="https://github.com/oxqnd">
@@ -17,11 +22,6 @@
 <a href="https://github.com/oxqnd">
   <img width="55%" align="right" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true&cache_seconds=1800&langs_count=8" />
 </a>
-
-- 📫 How to reach me:
-    - <a href="https://www.instagram.com/oxqnd_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oxqnd_/"/></a>
-    - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:orangemush777@gmail.com)
-
 <!-- Languages -->
 ### Languages:
 <a href="https://skillicons.dev">
