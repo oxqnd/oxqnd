@@ -22,6 +22,7 @@
 <a href="https://github.com/oxqnd">
   <img width="55%" align="right" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true&cache_seconds=1800&langs_count=8" />
 </a>
+
 <!-- Languages -->
 ### Languages:
 <a href="https://skillicons.dev">
