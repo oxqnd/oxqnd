@@ -24,9 +24,17 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,py,pytorch,flask,fastapi,javascript,nodejs,nestjs,nextjs,rabbitmq,mysql,vscode,git,github,ubuntu,docker,cloudflare&perline=4)](https://skillicons.dev)
+  <code><img width="9.3%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
+  <code><img width="9.3%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
+  <code><img width="9.3%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <br />
   <a href="https://github.com/oxqnd">
-    <img width="36%" align="left" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true" />
+    <img width="32%" align="left" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true" />
   </a>
 </p>
