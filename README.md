@@ -38,5 +38,5 @@
 <!-- Tools -->
 ### Tools:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rabbitmq,mysql,vscode,git,github,ubuntu,cloudflare,docker&perline=4" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rabbitmq,mysql,git,github,ubuntu,cloudflare,docker&perline=4" />
 </a>
