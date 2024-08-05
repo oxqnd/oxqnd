@@ -26,13 +26,13 @@
 <!-- Languages -->
 ### Languages:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,javascript&perline=3" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,r,javascript&perline=4" />
 </a>
 
 <!-- Frameworks and Libraries -->
 ### Frameworks and Libraries:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,flask,fastapi,nodejs,nestjs,nextjs&perline=3" />
+  <img src="https://skillicons.dev/icons?i=pytorch,flask,fastapi,nodejs,express,nestjs,nextjs&perline=4" />
 </a>
 
 <!-- Tools -->
