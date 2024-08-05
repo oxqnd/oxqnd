@@ -25,7 +25,7 @@
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,pytorch,flask,fastapi,javascript,nodejs,nestjs,nextjs,rabbitmq,mysql,vscode,git,github,ubuntu,docker,cloudflare&perline=4" style="width: 300px; height: 350px;">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,pytorch,flask,fastapi,javascript,nodejs,nestjs,nextjs,rabbitmq,mysql,vscode,git,github,ubuntu,cloudflare,docker&perline=4" style="width: 300px; height: 350px;">
   </a>
   <br />
   <a href="https://github.com/oxqnd">
