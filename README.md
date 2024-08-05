@@ -1,6 +1,6 @@
 <!-- Your title -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=280&section=header&text=안녕👋&fontSize=50&animation=scaleIn)	
-![snake gif](https://github.com/oxqnd/oxqnd/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
@@ -40,3 +40,5 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rabbitmq,mysql,git,github,ubuntu,cloudflare,docker&perline=4" />
 </a>
+
+![snake gif](https://github.com/oxqnd/oxqnd/blob/output/github-contribution-grid-snake.svg)
