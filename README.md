@@ -6,7 +6,7 @@
 
 <!-- Any image aligned to the right. Beware the width -->
 <!--<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />-->
-<img width="55%" height="200" align="right" alt="Github" src="6aabc26aba67698a77343533c0a23b752a65a0f6.gif" />
+<img width="55%" height="230" align="right" alt="Github" src="6aabc26aba67698a77343533c0a23b752a65a0f6.gif" />
 
 - 📫 How to reach me:
     - <a href="https://www.instagram.com/oxqnd_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oxqnd_/"/></a>
