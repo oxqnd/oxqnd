@@ -1,3 +1,4 @@
+<!--
 <!-- Your title -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=220&section=header&text=안녕👋&fontSize=50&animation=scaleIn)	
 
@@ -43,3 +44,4 @@
 </a>
 
 <!--![snake gif](https://github.com/oxqnd/oxqnd/blob/output/github-contribution-grid-snake.svg)-->
+-->
