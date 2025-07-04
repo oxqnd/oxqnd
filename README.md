@@ -9,7 +9,6 @@
 <img width="45%" height="250" align="right" alt="Github" src="6aabc26aba67698a77343533c0a23b752a65a0f6.gif" />
 
 - 📫 How to reach me:
-    - <a href="https://www.instagram.com/oxqnd_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oxqnd_/"/></a>
     - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:orangemush777@gmail.com)
 
 <!-- Your github readme stats -->
